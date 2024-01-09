@@ -1,3 +1,4 @@
+![Screenshot (3005)](https://github.com/RiteshGangwar2022/Eazotal-assignment/assets/116111183/e2843931-39f6-4983-9f3d-8c6ca4e1101c)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
